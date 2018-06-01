@@ -10,6 +10,7 @@
 #define UTILS_H
 
 #include "cxcore.h"
+#include "highgui.h"
 
 #include <stdio.h>
 #include <dirent.h>
